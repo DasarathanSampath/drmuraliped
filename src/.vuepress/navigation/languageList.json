@@ -1,0 +1,18 @@
+{
+    "list":{
+        "/":{
+          "lang": "en-US",
+          "lncode": "en",
+          "lnname": "English",
+          "title": "Dr Murali",
+          "description": "Pediatrician Kanchipuram, Child's specialist, children's doctor"
+        },
+        "/ta/":{
+          "lang": "ta-IN",
+          "lncode": "ta",
+          "lnname": "தமிழ்",
+          "title": "மரு முரளி",
+          "description": "குழந்தைகள் நல மருத்துவர் காஞ்சிபுரம்"
+        }
+    }
+}

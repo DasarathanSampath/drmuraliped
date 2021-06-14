@@ -1,0 +1,73 @@
+{
+    "list":{
+            "selectText": "Languages",
+            "label": "English",
+            "ariaLabel": "Languages",
+            "serviceWorker": {
+              "updatePopup": {
+                "message": "New content is available.",
+                "buttonText": "Refresh"
+              }
+            },
+            "algolia": {},
+            "repo": "",
+            "editLinks": false,
+            "docsDir": "",
+            "editLinkText": "",
+            "lastUpdated": false,
+            "location": "Kanchipuram",
+            "nav": [
+              {
+                "text": "Parents Guide",
+                "link": "/parents-guide/"
+              },
+              {
+                "text": "Immunization",
+                "link": "/immunization/"
+              },
+              {
+                "text": "Child Nutrition",
+                "link": "/child-nutrition/"
+              },
+              {
+                "text": "New Born Care",
+                "link": "/new-born-care/"
+              },
+              {
+                "text": "Community",
+                "link": "/community/"
+              }
+            ],
+            "sidebar": {
+            },
+            "nameCards": {
+                "cardTitle": "Dr MuraliKrishnan",
+                "qualification1": "P MD (Pediatrics)", 
+                "qualification2": "Practicing from 2001",
+                "address1": "Dr MuraliKrishnan Clinic",
+                "address2": "#50, Vallal Pachaiyappan Street,",
+                "address3": "Kanchipuram - 631502",
+                "address4": "Near - Moongil Mandapam",
+                "appointment": "Appointment"
+            },
+            "foot": [
+            {
+              "text": "About",
+              "link": "/about/"
+            },
+            {
+              "text": "Contact",
+              "link": "/contact/"
+            },
+            {
+              "text": "Disclaimer",
+              "link": "/disclaimer/"
+            },
+            {
+              "text": "Privacy",
+              "link": "/privacy/"
+            }
+        ],
+        "footSlohan": "Healthy Children, Healthy Nation | Copyright © 2020 DrMuraliPED"
+        }
+}

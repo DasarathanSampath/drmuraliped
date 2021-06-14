@@ -1,0 +1,74 @@
+{
+    "list": {
+        "selectText": "மொழிகள்",
+        "label": "தமிழ்",
+        "serviceWorker": {
+          "updatePopup": {
+            "message": "புதிய உள்ளடக்கம் சேர்க்கப்பட்டுள்ளது.",
+            "buttonText": "புதுப்பிக்கவும்"
+          }
+        },
+        "algolia": {},
+        "repo": "",
+        "editLinks": false,
+        "docsDir": "",
+        "editLinkText": "",
+        "lastUpdated": false,
+        "location": "காஞ்சிபுரம்",
+        "nav": [
+          {
+                "text": "வழிகாட்டி",
+                "link": "/ta/parents-guide/"
+              },
+              {
+                "text": "நோய்த்தடுப்பு",
+                "link": "/ta/immunization/"
+              },
+              {
+                "text": "ஊட்டச்சத்து",
+                "link": "/ta/child-nutrition/"
+              },
+              {
+                "text": "பராமரிப்பு",
+                "link": "/ta/new-born-care/"
+              },
+              {
+                "text": "சமூகம்",
+                "link": "/ta/community/"
+              }
+        ],
+        "sidebar": {
+
+        },
+        "nameCards": {
+          "cardTitle": "மருத்துவர் முரளிகிருஷ்ணன்",
+          "qualification1": "எம்.பி.பி.எஸ், எம்.டி - பீடியாட்ரிக்ஸ்",
+          "qualification2": "2001 முதல் பயிற்சி பெற்றவர்",
+          "address1": "மரு. முரளிகிருஷ்ணன் கிளினிக்",
+          "address2": "#50, வல்லல் பச்சையப்பன் தெரு,",
+          "address3": "காஞ்சிபுரம் - 631502",
+          "address4": "மூங்கில் மண்டபம் - அருகில் ",
+          "appointment": "நியமனம் பெறுவதற்கு"
+        },
+        "foot": [
+            {
+              "text": "என்னை பற்றி",
+              "link": "/ta/about/"
+            },
+            
+            {
+              "text": "தொடர்புக்கு",
+              "link": "/ta/contact/"
+            },
+            {
+              "text": "பொறுப்பாகாமை",
+              "link": "/ta/disclaimer/"
+            },
+            {
+              "text": "தகவல் பாதுகாப்பு",
+              "link": "/ta/privacy/"
+            }
+        ],
+        "footSlohan": "ஆரோக்கியமான குழந்தைகள், ஆரோக்கியமான தேசம் | பதிப்புரிமை © 2019 மரு. முரளி பிஈடி"
+    }
+}

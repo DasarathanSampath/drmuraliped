@@ -1,0 +1,120 @@
+/**
+ * Custom Styles here.
+ *
+ * ref：https://v1.vuepress.vuejs.org/config/#index-styl
+ */
+
+.myNameCard
+    box-shadow 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+    width 400px
+    max-height 120px
+    margin 0.1rem 0.5rem 0.5rem 0.5rem
+    // float left
+    position fixed
+    top 1px
+    left 1px
+    background-color #ffff
+
+.myNamecardImg
+    text-align centre
+    width 100%
+
+.myTitle
+    color gray
+    text-align left
+
+.myDescription
+    text-align left
+
+.myName
+    font-weight 600
+    font-size 1.2rem
+
+.myRow:after
+  content ""
+  display table
+  clear both
+
+.myColumn 
+  float left
+  width 50%
+
+.myColumnNameCard1 
+  float left
+  width 35%
+
+.myColumnNameCard2
+  float left
+  width 65%
+
+.myChip {
+  // display: inline-block;
+  // float: left;
+  padding: 0 15px;
+  height: 60px;
+  font-size: 16px;
+  line-height: 30px;
+  border-radius: 25px;
+  background-color: #f1f1f1;
+  margin: 1rem 0 0 1rem;
+  position: fixed;
+  left 405px
+  top 1px
+}
+
+.myChipImg {
+  float: left;
+  margin: 0 10px 0 -25px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.myAddress {
+    margin: 1rem 0.5rem 0.5rem 1rem; 
+    // box-shadow 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+    width 400px
+    max-height 120px
+    // display inline-block
+    background-color #ffff
+    position fixed
+    right 0
+    top 0
+}
+
+.myHead {
+  height: 125px;
+  width: 100%;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  position: fixed;
+  left 0px
+  top 0px
+}
+
+@media screen and (max-width 1035px) {
+    .myAddress {        
+        top 120px
+        left 1px
+    }
+    .myHead {
+        height: 225px;
+    }
+}
+
+@media screen and (max-width 625px) {
+    .myAddress {      
+        top 195px
+    }
+    .myNameCard {
+        width 97%
+    }
+    .myChip {
+        left 1px
+        top 120px
+    }
+    .myHead {
+        height: 325px;
+    }
+}
+
